@@ -1,0 +1,15 @@
+{
+  "main.css": "/dist/jss-personalization-poc/static/css/main.3a53130c.chunk.css",
+  "main.js": "/dist/jss-personalization-poc/static/js/main.7fb75b00.chunk.js",
+  "main.js.map": "/dist/jss-personalization-poc/static/js/main.7fb75b00.chunk.js.map",
+  "static/css/1.8de5b913.chunk.css": "/dist/jss-personalization-poc/static/css/1.8de5b913.chunk.css",
+  "static/js/1.07a84bd4.chunk.js": "/dist/jss-personalization-poc/static/js/1.07a84bd4.chunk.js",
+  "static/js/1.07a84bd4.chunk.js.map": "/dist/jss-personalization-poc/static/js/1.07a84bd4.chunk.js.map",
+  "runtime~main.js": "/dist/jss-personalization-poc/static/js/runtime~main.dda30b98.js",
+  "runtime~main.js.map": "/dist/jss-personalization-poc/static/js/runtime~main.dda30b98.js.map",
+  "static/css/main.3a53130c.chunk.css.map": "/dist/jss-personalization-poc/static/css/main.3a53130c.chunk.css.map",
+  "static/css/1.8de5b913.chunk.css.map": "/dist/jss-personalization-poc/static/css/1.8de5b913.chunk.css.map",
+  "index.html": "/dist/jss-personalization-poc/index.html",
+  "precache-manifest.47bbe2c2259b6f54a1bab80fae0b660d.js": "/dist/jss-personalization-poc/precache-manifest.47bbe2c2259b6f54a1bab80fae0b660d.js",
+  "service-worker.js": "/dist/jss-personalization-poc/service-worker.js"
+}
