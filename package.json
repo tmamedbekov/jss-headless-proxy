@@ -31,7 +31,7 @@
     "express": "~4.17.1",
     "ipaddr.js": "~1.8.1",
     "node-cache": "~4.2.0",
-    "node-fetch": "~2.3.0"
+    "node-fetch": "~2.6.0"
   },
   "private": true
 }
